@@ -2,8 +2,10 @@
   "name": "45-grupe-homework-import",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "calculator": "nodemon ./js/01-calculator.js",
     "console": "nodemon ./js/01-console.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
