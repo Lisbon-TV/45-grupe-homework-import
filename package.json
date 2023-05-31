@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "calculator": "nodemon ./js/01-calculator.js",
-    "console": "nodemon ./js/01-console.js",
+    "console": "nodemon ./js/00-console.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
