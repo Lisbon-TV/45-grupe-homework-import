@@ -12,4 +12,4 @@ ${daugiklis} * ${n8} = ${daugiklis * n8}
 ${daugiklis} * ${n9} = ${daugiklis * n9}
 ${daugiklis} * ${n10} = ${daugiklis * n10}`;
 
-export {lentele2};
+export default lentele2;
