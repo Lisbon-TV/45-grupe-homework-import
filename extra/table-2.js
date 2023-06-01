@@ -11,3 +11,5 @@ ${daugiklis} * ${n7} = ${daugiklis * n7}
 ${daugiklis} * ${n8} = ${daugiklis * n8}
 ${daugiklis} * ${n9} = ${daugiklis * n9}
 ${daugiklis} * ${n10} = ${daugiklis * n10}`;
+
+export {lentele2};
