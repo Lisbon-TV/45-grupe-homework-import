@@ -17,7 +17,6 @@ console.log(n8);
 console.log(n9);
 console.log(n10);
 
-console.log("................");
 
 
 
