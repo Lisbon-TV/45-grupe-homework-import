@@ -9,4 +9,4 @@ const n8 = 8;
 const n9 = 9;
 const n10 = 10;
 
-export {n1, n2, n3, n4, n5, n6, n8, n9, n10};
+export {n1, n2, n3, n4, n5, n6, n7, n8, n9, n10};
