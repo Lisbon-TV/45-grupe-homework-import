@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "import": "nodemon ./js/02-import.js",
+    "import": "nodemon ./js/03-import.js",
     "calculator": "nodemon ./js/02-calculator.js",
     "console": "nodemon ./js/01-console.js",
     "dev": "nodemon",
